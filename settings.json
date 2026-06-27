@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thoothukudi-7tT2.aternos.me:16480",
+    "ip": "thoothukudi-7tT2.aternos.me",
     "port": 16480,
     "version": "1.21.1"
   },
